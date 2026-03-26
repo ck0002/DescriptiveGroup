@@ -1,3 +1,5 @@
 # DescriptiveGroup
 
->[!tip] one two one
+ ```py
+    hello_world('print')
+```
